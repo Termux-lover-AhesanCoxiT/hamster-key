@@ -1,2 +1,2 @@
 # hamster-key
-This is Very Stronger Hamster Key Generater System.
+This is Very Stronger Hamster Key Generator System.
